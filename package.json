@@ -1,11 +1,15 @@
 {
-    "name": "ipfob-setter",
-    "version": "1.0.0",
-    "description": "Set an alarm controlled by ipfob/H&R Alarms",
-    "main": "set-alarm.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "R. Stephen Guerra",
-    "license": "Apache"
+  "name": "ipfob-setter",
+  "version": "1.0.0",
+  "description": "Set an alarm controlled by ipfob/H&R Alarms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R. Stephen Guerra",
+  "license": "Apache",
+  "dependencies": {
+    "command-line-args": "^3.0.4",
+    "selenium-webdriver": "^3.0.1"
+  }
 }
