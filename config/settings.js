@@ -26,7 +26,7 @@
     }
 
     if (!settings.browser){
-        settings.browser = 'phantomjs';
+        settings.browser = 'firefox';
     }
     
     exports.userSettings = {
