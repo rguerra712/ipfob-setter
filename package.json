@@ -2,7 +2,7 @@
     "name": "ipfob-setter",
     "version": "1.0.0",
     "description": "Set an alarm controlled by ipfob/H&R Alarms",
-    "main": "Set an alarm controlled by ipfob/H&R Alarms",
+    "main": "set-alarm.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
