@@ -1,0 +1,11 @@
+{
+    "name": "ipfob-setter",
+    "version": "1.0.0",
+    "description": "Set an alarm controlled by ipfob/H&R Alarms",
+    "main": "Set an alarm controlled by ipfob/H&R Alarms",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "R. Stephen Guerra",
+    "license": "Apache"
+}
