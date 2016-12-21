@@ -3,9 +3,9 @@
 
     const commandLineArgs = require('command-line-args');
     const optionDefinitions = [
-        { name: 'username', alias: 'u', type: String, defaultOption: '' },
-        { name: 'password', alias: 'p', type: String, defaultOption: '' },
-        { name: 'browser', alias: 'b', type: String, defaultOption: '' },
+        { name: 'username', alias: 'u', type: String, defaultValue: '' },
+        { name: 'password', alias: 'p', type: String, defaultValue: '' },
+        { name: 'browser', alias: 'b', type: String, defaultValue: '' },
     ];
     const options = commandLineArgs(optionDefinitions);
 
