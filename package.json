@@ -1,6 +1,6 @@
 {
   "name": "ipfob-setter",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Set an alarm controlled by ipfob/H&R Alarms",
   "main": "index.js",
   "scripts": {
